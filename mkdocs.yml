@@ -1,0 +1,59 @@
+# The title of your site - appears in the browser tab and at the top of the page
+site_name: Rajan's Wisdom Nuggets
+
+# # Optional: A short tagline that shows up in search engines or some themes
+site_description: A living glossary of modern software engineering, data science, data engineering, and GenAI.
+
+# # Optional: Appears in the browser tab and when you share the link
+site_url: https://RajanH-Codes.github.io/my-glossary/
+
+# # Theme configuration (we're using the Material theme for a sleek UI)
+# theme:
+#   name: material
+#   palette:
+#     scheme: slate  # dark mode theme, can also use 'default' for light
+#   font:
+#     text: Roboto
+#     code: Fira Code
+
+# # Navigation: defines the sidebar menu and page structure
+# nav:
+#   - Home: index.md
+#   - Software Engineering:
+#       - Overview: software-engineering.md
+#       - Design Patterns: se-design-patterns.md
+#       - DevOps: se-devops.md
+#   - Data Science:
+#       - Overview: data-science.md
+#       - Machine Learning: ds-ml.md
+#       - Statistics: ds-stats.md
+#   - Data Engineering:
+#       - Overview: data-engineering.md
+#       - Pipelines: de-pipelines.md
+#       - Tools: de-tools.md
+#   - GenAI:
+#       - Overview: genai.md
+#       - Prompt Engineering: genai-prompts.md
+#       - Agents & Workflows: genai-agents.md
+#   - Glossary: glossary.md
+#   - About: about.md
+
+# # Optional: Extra configuration for social cards, plugins, etc.
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/your-username/my-glossary
+#     - icon: fontawesome/brands/linkedin
+#       link: https://www.linkedin.com/in/your-profile/
+
+# # Optional: Enable Markdown extensions (e.g., code highlighting, tables, etc.)
+# markdown_extensions:
+#   - admonition              # block callouts like notes, tips, warnings
+#   - codehilite              # syntax highlighting for code blocks
+#   - toc:                    # table of contents on pages
+#       permalink: true
+#   - footnotes
+#   - pymdownx.details        # collapsible blocks
+#   - pymdownx.superfences    # nested code blocks
+#   - pymdownx.highlight
+#   - pymdownx.inlinehilite
