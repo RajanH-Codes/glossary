@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://RajanH-Codes.github.io/rajans-wisdom-nuggets/</loc>
-         <lastmod>2025-04-05</lastmod>
-    </url>
-    <url>
          <loc>https://RajanH-Codes.github.io/rajans-wisdom-nuggets/about/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-04-06</lastmod>
     </url>
     <url>
          <loc>https://RajanH-Codes.github.io/rajans-wisdom-nuggets/glossary/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-04-06</lastmod>
+    </url>
+    <url>
+         <loc>https://RajanH-Codes.github.io/rajans-wisdom-nuggets/home/</loc>
+         <lastmod>2025-04-06</lastmod>
     </url>
     <url>
          <loc>https://RajanH-Codes.github.io/rajans-wisdom-nuggets/best-practice/best-practices/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-04-06</lastmod>
+    </url>
+    <url>
+         <loc>https://RajanH-Codes.github.io/rajans-wisdom-nuggets/best-practice/code-writing/</loc>
+         <lastmod>2025-04-06</lastmod>
     </url>
     <url>
          <loc>https://RajanH-Codes.github.io/rajans-wisdom-nuggets/best-practice/unit-testing/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-04-06</lastmod>
     </url>
     <url>
          <loc>https://RajanH-Codes.github.io/rajans-wisdom-nuggets/software-engineering/software-engineering/</loc>
-         <lastmod>2025-04-05</lastmod>
+         <lastmod>2025-04-06</lastmod>
+    </url>
+    <url>
+         <loc>https://RajanH-Codes.github.io/rajans-wisdom-nuggets/software-engineering/oop/wrappers-and-decorators/</loc>
+         <lastmod>2025-04-06</lastmod>
     </url>
 </urlset>
